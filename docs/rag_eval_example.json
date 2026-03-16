@@ -1,0 +1,40 @@
+﻿{
+  "top_k": 8,
+  "candidate_k": 24,
+  "samples": [
+    {
+      "query": "这份资料中关于柏拉图与诡辩家争论的核心观点是什么？",
+      "file_ids": [
+        "2026335210100961282"
+      ],
+      "relevant_chunk_ids": [
+        "2026335210100961282_chunk_3"
+      ],
+      "relevant_file_ids": [
+        "2026335210100961282"
+      ],
+      "relevant_keywords": [
+        "柏拉图",
+        "诡辩家"
+      ],
+      "needs_review": true
+    },
+    {
+      "query": "资料里如何描述自由与政治抗争之间的关系？",
+      "file_ids": [
+        "2026698875018874882"
+      ],
+      "relevant_chunk_ids": [
+        "2026698875018874882_chunk_1"
+      ],
+      "relevant_file_ids": [
+        "2026698875018874882"
+      ],
+      "relevant_keywords": [
+        "自由",
+        "抗议者"
+      ],
+      "needs_review": true
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "TOOL_JAVA_BASE_URL": "http://127.0.0.1:8081",
+  "TOOL_API_REGISTRY": {
+    "tool_query_knowledge": {
+      "description": "通过WindowId和chapterId分页查询知识库信息。当需要查询某个窗口或某个章节的知识库文件时使用此接口。支持分页查询，可以指定页码和每页记录数。使用场景：查询某个窗口的所有知识库文件、查询某个章节的知识库文件、查看知识库文件列表等。返回结果包含知识库文件的信息（文件ID、窗口ID、章节ID、文件名、文件Key、文件URL、文件大小、文件类型、解析状态、向量集合ID、Token数量、创建时间、更新时间等）。",
+      "url": "{TOOL_JAVA_BASE_URL}/api/v1/tool/knowledge",
+      "method": "POST",
+      "request_body": {
+        "description": "请求体包含窗口ID、章节ID和分页参数。windowId和chapterId为必填字段",
+        "fields": {
+          "pageNum": {
+            "description": "页码，从1开始。默认值为1。示例：1, 2, 3",
+            "type": "integer"
+          },
+          "pageSize": {
+            "description": "每页记录数。默认值为10。示例：10, 20, 50",
+            "type": "integer"
+          },
+          "windowId": {
+            "description": "窗口ID，必填。示例：123",
+            "type": "integer"
+          },
+          "chapterId": {
+            "description": "章节ID，必填。示例：456",
+            "type": "integer"
+          }
+        }
+      },
+      "type": "object",
+      "examples": [
+        {
+          "scenario": "查询窗口ID为{windowId}、章节ID为{chapterId}的知识库文件",
+          "requestBody": {
+            "windowId": "{windowId}",
+            "chapterId": "{chapterId}",
+            "pageNum": 1,
+            "pageSize": 10
+          }
+        }
+      ]
+    },
+    "tool_query_guides": {
+      "description": "通过WindowId、chapterId、userId分页查询学习指南信息。当需要查询某个窗口、某个章节或某个教师挂载的学习指南时使用此接口。支持分页查询，可以指定页码和每页记录数。使用场景：查询某个窗口的所有学习指南、查询某个章节的学习指南、查询某个教师挂载的学习指南、查看学习指南列表等。返回结果包含学习指南的信息（指南ID、窗口ID、章节ID、用户ID、关联文件ID、标题、内容、类型、创建时间、状态等）。",
+      "url": "{TOOL_JAVA_BASE_URL}/api/v1/tool/guides",
+      "method": "POST",
+      "request_body": {
+        "description": "请求体包含窗口ID、章节ID、用户ID和分页参数。所有字段都是必选的",
+        "fields": {
+          "pageNum": {
+            "description": "页码，从1开始。默认值为1。示例：1, 2, 3",
+            "type": "integer"
+          },
+          "pageSize": {
+            "description": "每页记录数。默认值为10。示例：10, 20, 50",
+            "type": "integer"
+          },
+          "windowId": {
+            "description": "窗口ID，必填。示例：123",
+            "type": "integer"
+          },
+          "chapterId": {
+            "description": "章节ID，必填。示例：456",
+            "type": "integer"
+          },
+          "userId": {
+            "description": "用户ID，必填。示例：789",
+            "type": "integer"
+          }
+        }
+      },
+      "type": "object",
+      "examples": [
+        {
+          "scenario": "查询窗口ID为{windowId}、章节ID为{chapterId}、用户ID为{userId}的所有学习指南",
+          "requestBody": {
+            "windowId": "{windowId}",
+            "chapterId": "{chapterId}",
+            "userId": "{userId}",
+            "pageNum": 1,
+            "pageSize": 10
+          }
+        }
+      ]
+    },
+    "tool_query_student_quiz_records": {
+      "description": "通过WindowId、chapterId、userId分页查询学员用户的试题记录。当需要查询某个窗口或章节中学员的试题答题记录时使用此接口。支持分页查询，可以指定页码和每页记录数。使用场景：查询某个章节所有学员的试题记录、查询特定昵称学员的试题记录、查看学员答题情况等。返回结果包含学员试题记录的信息（记录ID、试题ID、用户ID、分数、用户答案、Agent分析、状态、创建时间、分析状态等）。",
+      "url": "{TOOL_JAVA_BASE_URL}/api/v1/tool/student-quiz-records",
+      "method": "POST",
+      "request_body": {
+        "description": "请求体包含窗口ID、章节ID、用户ID和分页参数。windowId、chapterId、userId为必填字段",
+        "fields": {
+          "pageNum": {
+            "description": "页码，从1开始。默认值为1。示例：1, 2, 3",
+            "type": "integer"
+          },
+          "pageSize": {
+            "description": "每页记录数。默认值为10。示例：10, 20, 50",
+            "type": "integer"
+          },
+          "joinQuiz": {
+            "description": "是否连接查询试题信息。必填，值为true。",
+            "type": "boolean"
+          },
+          "windowId": {
+            "description": "窗口ID，必填。示例：123",
+            "type": "integer"
+          },
+          "chapterId": {
+            "description": "章节ID，必填。示例：456",
+            "type": "integer"
+          },
+          "userId": {
+            "description": "用户ID，必填。示例：789",
+            "type": "integer"
+          }
+        }
+      },
+      "type": "object",
+      "examples": [
+        {
+          "scenario": "查询窗口ID为{windowId}、章节ID为{chapterId}、用户ID为{userId}的所有学员试题记录",
+          "requestBody": {
+            "windowId": "{windowId}",
+            "chapterId": "{chapterId}",
+            "userId": "{userId}",
+            "joinQuiz": true,
+            "pageNum": 1,
+            "pageSize": 10
+          }
+        }
+      ]
+    },
+    "tool_query_student_chats": {
+      "description": "通过WindowId、chapterId、userId分页查询学员用户的聊天记录。当需要查询某个章节中学员的聊天记录时使用此接口。支持通过学员昵称进行模糊匹配查询。支持分页查询，可以指定页码和每页记录数。使用场景：查询某个章节所有学员的聊天记录、查询特定昵称学员的聊天记录、查看学员与AI的对话内容等。返回结果包含聊天记录的信息（消息ID、窗口ID、章节ID、用户ID、角色、消息内容、引用文档、创建时间、更新时间等）。",
+      "url": "{TOOL_JAVA_BASE_URL}/api/v1/tool/student-chats",
+      "method": "POST",
+      "request_body": {
+        "description": "请求体包含窗口ID、章节ID、用户ID和分页参数。所有字段都是必填的",
+        "fields": {
+          "pageNum": {
+            "description": "页码，从1开始。默认值为1。示例：1, 2, 3",
+            "type": "integer"
+          },
+          "pageSize": {
+            "description": "每页记录数。默认值为10。示例：10, 20, 50",
+            "type": "integer"
+          },
+          "windowId": {
+            "description": "窗口ID，必填。示例：123",
+            "type": "integer"
+          },
+          "chapterId": {
+            "description": "章节ID，必填。示例：456",
+            "type": "integer"
+          },
+          "userId": {
+            "description": "用户ID，必填。示例：789",
+            "type": "integer"
+          }
+        }
+      },
+      "type": "object",
+      "examples": [
+        {
+          "scenario": "查询窗口ID为{windowId}、章节ID为{chapterId}、用户ID为{userId}的所有聊天记录",
+          "requestBody": {
+            "windowId": "{windowId}",
+            "chapterId": "{chapterId}",
+            "userId": "{userId}",
+            "pageNum": 1,
+            "pageSize": 10
+          }
+        }
+      ]
+    }
+  }
+}

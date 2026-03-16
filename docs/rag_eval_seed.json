@@ -1,0 +1,574 @@
+{
+  "top_k": 8,
+  "candidate_k": 24,
+  "samples": [
+    {
+      "query": "围绕“这就是为什么享乐不是作为主体内在潜能的实现而自然产生的，而是创伤性超我命”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027269621531164674"
+      ],
+      "relevant_file_ids": [
+        "2027269621531164674"
+      ],
+      "relevant_chunk_ids": [
+        "2027269621531164674_chunk_6"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“而且放弃对某些大他者 (big Other) 的保证正是真正自主的伦理的”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027269621531164674"
+      ],
+      "relevant_file_ids": [
+        "2027269621531164674"
+      ],
+      "relevant_chunk_ids": [
+        "2027269621531164674_chunk_13"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“只有 \"多 \"的 \"多\"，那么终极实在就是 \"虚空 \"本身；所有确定的事”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2033500981178642433"
+      ],
+      "relevant_file_ids": [
+        "2033500981178642433"
+      ],
+      "relevant_chunk_ids": [
+        "2033500981178642433_chunk_14"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“重要的不是虚拟现实，而是虚拟的现实（在拉康术语中，它是实在界 (the ”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2033500981178642433"
+      ],
+      "relevant_file_ids": [
+        "2033500981178642433"
+      ],
+      "relevant_chunk_ids": [
+        "2033500981178642433_chunk_17"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“另一种形式是 弗洛伊德式 UrVater，即享受所有女人的人。就拉康而言”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2026715484383019010"
+      ],
+      "relevant_file_ids": [
+        "2026715484383019010"
+      ],
+      "relevant_chunk_ids": [
+        "2026715484383019010_chunk_12"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“与能指分离，与大他者 (the Other) 分离，对它来说，范式就是非”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2026715484383019010"
+      ],
+      "relevant_file_ids": [
+        "2026715484383019010"
+      ],
+      "relevant_chunk_ids": [
+        "2026715484383019010_chunk_11"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“在这里，理性什么也决定不了。我们之间存在着无限的混沌。在这无限距离的尽头”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027100072867459073"
+      ],
+      "relevant_file_ids": [
+        "2027100072867459073"
+      ],
+      "relevant_chunk_ids": [
+        "2027100072867459073_chunk_9"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“在拉康的的性别公式中，\"非-全 (non-All) \"指的是女性的位置，”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027100072867459073"
+      ],
+      "relevant_file_ids": [
+        "2027100072867459073"
+      ],
+      "relevant_chunk_ids": [
+        "2027100072867459073_chunk_0"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“这种幻想使西方人能够将纯粹的 \"道德 \"行为重新转化为 \"病态\"（康德式”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027098335192477697"
+      ],
+      "relevant_file_ids": [
+        "2027098335192477697"
+      ],
+      "relevant_chunk_ids": [
+        "2027098335192477697_chunk_4"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“届时所有受害者都将得到应有的惩罚，他们的清白和为事业做出的牺牲将得到承认”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027098335192477697"
+      ],
+      "relevant_file_ids": [
+        "2027098335192477697"
+      ],
+      "relevant_chunk_ids": [
+        "2027098335192477697_chunk_11"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“这种分裂的 \"对角线 \"过程实际上是垂直的，也就是说、我们处理的是同一个”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2033501188016549889"
+      ],
+      "relevant_file_ids": [
+        "2033501188016549889"
+      ],
+      "relevant_chunk_ids": [
+        "2033501188016549889_chunk_7"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“还借给他们钱或种子等--他们是真正的剥削者。-他们是剥削者，是必须 \"清”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2033501188016549889"
+      ],
+      "relevant_file_ids": [
+        "2033501188016549889"
+      ],
+      "relevant_chunk_ids": [
+        "2033501188016549889_chunk_9"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“毁掉男人的生活、破坏家庭），但她又是完全道德的（忠于自己选择的道路，即使”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027277011538296834"
+      ],
+      "relevant_file_ids": [
+        "2027277011538296834"
+      ],
+      "relevant_chunk_ids": [
+        "2027277011538296834_chunk_7"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“如果你知道一种饥饿，而这种饥饿是灰色的胆怯无法满足的......64简而”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027277011538296834"
+      ],
+      "relevant_file_ids": [
+        "2027277011538296834"
+      ],
+      "relevant_chunk_ids": [
+        "2027277011538296834_chunk_10"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“我们应该永远记住，尼采名著的标题是 \"道德谱系\"，而不是 \"伦理学谱系\"”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027277593363759105"
+      ],
+      "relevant_file_ids": [
+        "2027277593363759105"
+      ],
+      "relevant_chunk_ids": [
+        "2027277593363759105_chunk_8"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“这就是为什么享乐不是作为主体内在潜能的实现而自然产生的，而是创伤性超我命”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027277593363759105"
+      ],
+      "relevant_file_ids": [
+        "2027277593363759105"
+      ],
+      "relevant_chunk_ids": [
+        "2027277593363759105_chunk_6"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“从这一结论出发，我们可以回到高尔吉亚，再次提出柏拉图与诡辩家之间的关系问”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027656461595656194"
+      ],
+      "relevant_file_ids": [
+        "2027656461595656194"
+      ],
+      "relevant_chunk_ids": [
+        "2027656461595656194_chunk_0"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“而是选择最初的非此即彼的坏的一方。拉康在他的研讨班......ou pi”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027656461595656194"
+      ],
+      "relevant_file_ids": [
+        "2027656461595656194"
+      ],
+      "relevant_chunk_ids": [
+        "2027656461595656194_chunk_1"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“即剧本《1 月 16 日之夜》，这是一个最大的讽刺（也是最伟大的诗意正义”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027267811743514625"
+      ],
+      "relevant_file_ids": [
+        "2027267811743514625"
+      ],
+      "relevant_chunk_ids": [
+        "2027267811743514625_chunk_9"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“毁掉男人的生活、破坏家庭），但她又是完全道德的（忠于自己选择的道路，即使”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027267811743514625"
+      ],
+      "relevant_file_ids": [
+        "2027267811743514625"
+      ],
+      "relevant_chunk_ids": [
+        "2027267811743514625_chunk_7"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“这种幻想使西方人能够将纯粹的 \"道德 \"行为重新转化为 \"病态\"（康德式”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027275595428020226"
+      ],
+      "relevant_file_ids": [
+        "2027275595428020226"
+      ],
+      "relevant_chunk_ids": [
+        "2027275595428020226_chunk_4"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“届时所有受害者都将得到应有的惩罚，他们的清白和为事业做出的牺牲将得到承认”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027275595428020226"
+      ],
+      "relevant_file_ids": [
+        "2027275595428020226"
+      ],
+      "relevant_chunk_ids": [
+        "2027275595428020226_chunk_11"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“这种幻想使西方人能够将纯粹的 \"道德 \"行为重新转化为 \"病态\"（康德式”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027260328991932418"
+      ],
+      "relevant_file_ids": [
+        "2027260328991932418"
+      ],
+      "relevant_chunk_ids": [
+        "2027260328991932418_chunk_4"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“不是淡化他的反犹主义，而是淡化他最后的自我牺牲姿态，指出他所救的人不是犹”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027260328991932418"
+      ],
+      "relevant_file_ids": [
+        "2027260328991932418"
+      ],
+      "relevant_chunk_ids": [
+        "2027260328991932418_chunk_2"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“当她发现自己被彻底羞辱，被剥夺了所有的伦理实体时，她不能责怪命运。然而，”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027249189807685634"
+      ],
+      "relevant_file_ids": [
+        "2027249189807685634"
+      ],
+      "relevant_chunk_ids": [
+        "2027249189807685634_chunk_3"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“它的最终目的是最雄心勃勃、最亵渎神明的--让人起死回生。众所周知，上帝之”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027249189807685634"
+      ],
+      "relevant_file_ids": [
+        "2027249189807685634"
+      ],
+      "relevant_chunk_ids": [
+        "2027249189807685634_chunk_12"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“那么也就不存在他者 (Others) ，无论是存在的还是不存在的--什么”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2026949671337828354"
+      ],
+      "relevant_file_ids": [
+        "2026949671337828354"
+      ],
+      "relevant_chunk_ids": [
+        "2026949671337828354_chunk_6"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“每个术语都有两个种类，即自身和另一个术语；每个术语都是自身和它的另一个术”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2026949671337828354"
+      ],
+      "relevant_file_ids": [
+        "2026949671337828354"
+      ],
+      "relevant_chunk_ids": [
+        "2026949671337828354_chunk_2"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“把他们带到这里来，在我面前宰了他们！'\"--这实在不一个姿态配得上一个好”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027097939048853505"
+      ],
+      "relevant_file_ids": [
+        "2027097939048853505"
+      ],
+      "relevant_chunk_ids": [
+        "2027097939048853505_chunk_3"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“比如说，也许被选中的人无论做什么都会有注定的无限回报，而其他人的效用则是”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027097939048853505"
+      ],
+      "relevant_file_ids": [
+        "2027097939048853505"
+      ],
+      "relevant_chunk_ids": [
+        "2027097939048853505_chunk_10"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“它们直接/直观地呈现了观念一个 \"投掷石块的女人\"，即这样一个人物的 \"”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2033501158518009857"
+      ],
+      "relevant_file_ids": [
+        "2033501158518009857"
+      ],
+      "relevant_chunk_ids": [
+        "2033501158518009857_chunk_6"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“反对柏拉图形式的知识主义的不育--正如尼采所说，\"柏拉图 \"是一种疾病的”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2033501158518009857"
+      ],
+      "relevant_file_ids": [
+        "2033501158518009857"
+      ],
+      "relevant_chunk_ids": [
+        "2033501158518009857_chunk_16"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“只有在大他者 (the big Other) 堕落的这一背景下，人们才能”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027274762355359746"
+      ],
+      "relevant_file_ids": [
+        "2027274762355359746"
+      ],
+      "relevant_chunk_ids": [
+        "2027274762355359746_chunk_0"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“这种幻想使西方人能够将纯粹的 \"道德 \"行为重新转化为 \"病态\"（康德式”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027274762355359746"
+      ],
+      "relevant_file_ids": [
+        "2027274762355359746"
+      ],
+      "relevant_chunk_ids": [
+        "2027274762355359746_chunk_4"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“即剧本《1 月 16 日之夜》，这是一个最大的讽刺（也是最伟大的诗意正义”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027277432575115265"
+      ],
+      "relevant_file_ids": [
+        "2027277432575115265"
+      ],
+      "relevant_chunk_ids": [
+        "2027277432575115265_chunk_9"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“而且放弃对某些大他者 (big Other) 的保证正是真正自主的伦理的”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027277432575115265"
+      ],
+      "relevant_file_ids": [
+        "2027277432575115265"
+      ],
+      "relevant_chunk_ids": [
+        "2027277432575115265_chunk_13"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“毁掉男人的生活、破坏家庭），但她又是完全道德的（忠于自己选择的道路，即使”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027257219532079105"
+      ],
+      "relevant_file_ids": [
+        "2027257219532079105"
+      ],
+      "relevant_chunk_ids": [
+        "2027257219532079105_chunk_7"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“只有在大他者 (the big Other) 堕落的这一背景下，人们才能”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027257219532079105"
+      ],
+      "relevant_file_ids": [
+        "2027257219532079105"
+      ],
+      "relevant_chunk_ids": [
+        "2027257219532079105_chunk_0"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“\"现实原则 \"之间并不存在断裂：后者（迫使我们考虑到阻碍我们直接获取快乐”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027275313570791426"
+      ],
+      "relevant_file_ids": [
+        "2027275313570791426"
+      ],
+      "relevant_chunk_ids": [
+        "2027275313570791426_chunk_5"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    },
+    {
+      "query": "围绕“悖论在于拉斯柯尔尼科夫缺乏的是分裂本身，是 \"拿破仑 \"和 \"俄罗斯 \"”这段内容，资料的核心观点是什么？",
+      "file_ids": [
+        "2027275313570791426"
+      ],
+      "relevant_file_ids": [
+        "2027275313570791426"
+      ],
+      "relevant_chunk_ids": [
+        "2027275313570791426_chunk_12"
+      ],
+      "relevant_keywords": [],
+      "needs_review": true
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-03-16T13:16:15.471564+00:00",
+    "total_records": 739,
+    "max_files": 20,
+    "samples_per_file": 2,
+    "seed": 42,
+    "notes": "Auto-generated seeds. Please manually refine query text and labels before production benchmarking."
+  }
+}
