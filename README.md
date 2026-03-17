@@ -3,6 +3,12 @@
 ## 项目简介
 `ai-tech-agent` 是一个面向教学场景的 AI 服务，基于 `FastAPI + RAG + 工具调用 + SSE 流式聊天` 构建。
 
+## 项目矩阵（AI自适应学习引擎）
+
+- 前端：[ai-tech-vue](https://github.com/organwalk/ai-tech-vue)
+- 后端：[ai-tech](https://github.com/organwalk/ai-tech)
+- Agent（当前仓库）：[ai-tech-agent](https://github.com/organwalk/ai-tech-agent)
+
 它主要用于以下场景：
 - 教学知识库入库与检索问答
 - 学习指南生成
